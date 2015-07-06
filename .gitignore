@@ -1,0 +1,6 @@
+*.mk
+*.txt
+*.tags
+*.workspace
+*.project
+Debug/
