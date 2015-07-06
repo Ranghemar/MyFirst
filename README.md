@@ -1,2 +1,2 @@
 # MyFirst
-My first attempt to set up repo
+My first attempt to set up my own repo on github.
