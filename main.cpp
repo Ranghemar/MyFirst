@@ -154,8 +154,6 @@ arrFactAssets[61]  = 70.12867;
 
 
     cout << "Press Enter to continue..." << endl;
-    cin.ignore(10, '\n');
-    cin.get();
 
 
     return 0;
