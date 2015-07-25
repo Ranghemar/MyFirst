@@ -18,6 +18,6 @@ int main(int argc, char **argv)
 int someFunction( int a, int b)
 {
 	int result;
-	result = a + b;
-	return result;
+	result = a + b; // I need more complex function
+	return result; 
 }
