@@ -17,7 +17,7 @@ int main(int argc, char **argv)
 
 int someFunction( int a, int b)
 {
-	int result; 
+	int result;
 	result = a + b;
 	return result;
 }
