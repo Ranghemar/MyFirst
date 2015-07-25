@@ -1,4 +1,5 @@
 // I need to put in comments
+// The idea is to creat a standard prototype function
 
 #include <iostream>
 using namespace std;
