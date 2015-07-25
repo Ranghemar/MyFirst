@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 // I need to put in comments
 
-=======
->>>>>>> a374f82541aee3e5e98870c682b032d672794354
 #include <iostream>
 using namespace std;
 
